@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shre000/EXPENSE-APP/static/css/main.1cf1504e.css",
+    "main.js": "/shre000/EXPENSE-APP/static/js/main.ed2ac13f.js",
+    "index.html": "/shre000/EXPENSE-APP/index.html",
+    "main.1cf1504e.css.map": "/shre000/EXPENSE-APP/static/css/main.1cf1504e.css.map",
+    "main.ed2ac13f.js.map": "/shre000/EXPENSE-APP/static/js/main.ed2ac13f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf1504e.css",
+    "static/js/main.ed2ac13f.js"
+  ]
+}
